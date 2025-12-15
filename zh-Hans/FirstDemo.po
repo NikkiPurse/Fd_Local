@@ -18,705 +18,705 @@ msgstr ""
 #: /Game/_FdSystem/Farming/BP_FdFarmland.BP_FdFarmland_C:AC_EasyInteractableActor_GEN_VARIABLE.InteractableSettingsList(0).InteractableSettingsList.InteractionText_25_6B50869640B0A0226BDBD29E718E748A
 msgctxt ",E1E485524D152AAA979762824B31F770"
 msgid "Interaction"
-msgstr ""
+msgstr "互动"
 
 #. Key:	C02B1BDB47BBFAE514BE8E8D9727B240
 #. SourceLocation:	/Game/_FdSystem/GameMode/DA_EGUI_FdConfig.DA_EGUI_FdConfig.KeybindMappingsContexts(0 - Value).KeybindMappingsContexts_Value
 #: /Game/_FdSystem/GameMode/DA_EGUI_FdConfig.DA_EGUI_FdConfig.KeybindMappingsContexts(0 - Value).KeybindMappingsContexts_Value
 msgctxt ",C02B1BDB47BBFAE514BE8E8D9727B240"
 msgid "Player"
-msgstr ""
+msgstr "玩家"
 
 #. Key:	86145A97495C0D07A3740D872D0A7914
 #. SourceLocation:	/Game/_FdSystem/GameMode/DA_EGUI_FdConfig.DA_EGUI_FdConfig.KeybindMappingsContexts(1 - Value).KeybindMappingsContexts_Value
 #: /Game/_FdSystem/GameMode/DA_EGUI_FdConfig.DA_EGUI_FdConfig.KeybindMappingsContexts(1 - Value).KeybindMappingsContexts_Value
 msgctxt ",86145A97495C0D07A3740D872D0A7914"
 msgid "Interactive"
-msgstr ""
+msgstr "交互"
 
 #. Key:	9769BAFB495E379DDD0EAB8183B855CA
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.apple.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.apple.DisplayName
 msgctxt ",9769BAFB495E379DDD0EAB8183B855CA"
 msgid "Apple"
-msgstr ""
+msgstr "苹果"
 
 #. Key:	7B488D2448D25E75893357A38FF9CEFC
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.bluepotion.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.bluepotion.DisplayName
 msgctxt ",7B488D2448D25E75893357A38FF9CEFC"
 msgid "BluePotion"
-msgstr ""
+msgstr "蓝色药水"
 
 #. Key:	3B1A7A074EC45B1134C748812DE5FB43
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.greenpotion.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.greenpotion.DisplayName
 msgctxt ",3B1A7A074EC45B1134C748812DE5FB43"
 msgid "GreenPotion"
-msgstr ""
+msgstr "绿色药水"
 
 #. Key:	F5D1ABD142DA5B56DD50B7916C172EF8
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.peach.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.peach.DisplayName
 msgctxt ",F5D1ABD142DA5B56DD50B7916C172EF8"
 msgid "Peach"
-msgstr ""
+msgstr "桃子"
 
 #. Key:	F3FE452B431387A7019687BF830293E5
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.purplepotion.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.purplepotion.DisplayName
 msgctxt ",F3FE452B431387A7019687BF830293E5"
 msgid "PurplePotion"
-msgstr ""
+msgstr "紫色药水"
 
 #. Key:	C3C3C5F444F5096FF27001B570EA899C
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.redpotion.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.consumable.redpotion.DisplayName
 msgctxt ",C3C3C5F444F5096FF27001B570EA899C"
 msgid "RedPotion"
-msgstr ""
+msgstr "红色药水"
 
 #. Key:	B7C8E3154F9E152AB056CC98586CADAD
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cabbageseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cabbageseed.DisplayName
 msgctxt ",B7C8E3154F9E152AB056CC98586CADAD"
 msgid "CabbageSeed"
-msgstr ""
+msgstr "卷心菜种子"
 
 #. Key:	FB940C77433B5FA202BA43A46C05FE39
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.carrotseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.carrotseed.DisplayName
 msgctxt ",FB940C77433B5FA202BA43A46C05FE39"
 msgid "CarrotSeed"
-msgstr ""
+msgstr "胡萝卜种子"
 
 #. Key:	AE51541A4FD1FD84B747CBA2782681C9
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cornseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cornseed.DisplayName
 msgctxt ",AE51541A4FD1FD84B747CBA2782681C9"
 msgid "CornSeed"
-msgstr ""
+msgstr "玉米种子"
 
 #. Key:	327C9643421490C7A7FF91A263FF4072
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cucumberseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.cucumberseed.DisplayName
 msgctxt ",327C9643421490C7A7FF91A263FF4072"
 msgid "CucumberSeed"
-msgstr ""
+msgstr "黄瓜种子"
 
 #. Key:	9F8E6B4F40DD739D53A0CCAF30D8E5E4
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.a.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.a.DisplayName
 msgctxt ",9F8E6B4F40DD739D53A0CCAF30D8E5E4"
 msgid "FISHA"
-msgstr ""
+msgstr "FISHA"
 
 #. Key:	0FE13ECD41511E02E2491DBF99D0D7CB
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.B.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.B.DisplayName
 msgctxt ",0FE13ECD41511E02E2491DBF99D0D7CB"
 msgid "FISHB"
-msgstr ""
+msgstr "FISHB"
 
 #. Key:	7D56EF5A4E7A65D5EC691B9B58197316
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.C.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.C.DisplayName
 msgctxt ",7D56EF5A4E7A65D5EC691B9B58197316"
 msgid "FISHC"
-msgstr ""
+msgstr "FISHC"
 
 #. Key:	0AF744864992ABDC6C61B790BCA1F197
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.D.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.fish.D.DisplayName
 msgctxt ",0AF744864992ABDC6C61B790BCA1F197"
 msgid "FISHD"
-msgstr ""
+msgstr "FISHD"
 
 #. Key:	25F3D678493966F42A1378B59599476A
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul1.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul1.DisplayName
 msgctxt ",25F3D678493966F42A1378B59599476A"
 msgid "FishingHaul1"
-msgstr ""
+msgstr "渔获1"
 
 #. Key:	7DC1C167484920EF13C498AF6F9243C3
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul2.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul2.DisplayName
 msgctxt ",7DC1C167484920EF13C498AF6F9243C3"
 msgid "FishingHaul2"
-msgstr ""
+msgstr "渔获2"
 
 #. Key:	FF73FD9E4373DDFEE1B183B7AAAB87C3
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul3.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul3.DisplayName
 msgctxt ",FF73FD9E4373DDFEE1B183B7AAAB87C3"
 msgid "FishingHaul3"
-msgstr ""
+msgstr "渔获3"
 
 #. Key:	9034075C41F04DA02663D58313F6EE73
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul4.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.FishingHaul4.DisplayName
 msgctxt ",9034075C41F04DA02663D58313F6EE73"
 msgid "FishingHaul4"
-msgstr ""
+msgstr "渔获4"
 
 #. Key:	75E3EC6C47DF5555B2250C9D5B6FBD70
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.gold.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.gold.DisplayName
 msgctxt ",75E3EC6C47DF5555B2250C9D5B6FBD70"
 msgid "Gold"
-msgstr ""
+msgstr "金币"
 
 #. Key:	4251FC5A4B4775B3FD8EB5AA7BC01752
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Metal.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Metal.DisplayName
 msgctxt ",4251FC5A4B4775B3FD8EB5AA7BC01752"
 msgid "Metal"
-msgstr ""
+msgstr "金属"
 
 #. Key:	25A91B5B42AABA836419A2B9D4AD51A9
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.onionseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.onionseed.DisplayName
 msgctxt ",25A91B5B42AABA836419A2B9D4AD51A9"
 msgid "OnionSeed"
-msgstr ""
+msgstr "洋葱种子"
 
 #. Key:	EA8DF488410E8F144877BE9529BE1C46
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.potatoseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.potatoseed.DisplayName
 msgctxt ",EA8DF488410E8F144877BE9529BE1C46"
 msgid "PotatoSeed"
-msgstr ""
+msgstr "土豆种子"
 
 #. Key:	F7AE323C488133B6D61D4BBCCA6B9F86
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.pumpkinseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.pumpkinseed.DisplayName
 msgctxt ",F7AE323C488133B6D61D4BBCCA6B9F86"
 msgid "PumpkinSeed"
-msgstr ""
+msgstr "南瓜种子"
 
 #. Key:	2E1A59924570820F2D2AC0885EF02484
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.radishseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.radishseed.DisplayName
 msgctxt ",2E1A59924570820F2D2AC0885EF02484"
 msgid "RadishSeed"
-msgstr ""
+msgstr "萝卜种子"
 
 #. Key:	B00BDB5C4547AD73B18FA9ABB9A8B254
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Rock.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Rock.DisplayName
 msgctxt ",B00BDB5C4547AD73B18FA9ABB9A8B254"
 msgid "Rock"
-msgstr ""
+msgstr "石块"
 
 #. Key:	9F2D13234C63E5F290AD6AB68A8401CD
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.String.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.String.DisplayName
 msgctxt ",9F2D13234C63E5F290AD6AB68A8401CD"
 msgid "String"
-msgstr ""
+msgstr "绳子"
 
 #. Key:	C4DE133242535DB06811F3B4F0AEB3AC
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.sunflowerseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.sunflowerseed.DisplayName
 msgctxt ",C4DE133242535DB06811F3B4F0AEB3AC"
 msgid "SunflowerSeed"
-msgstr ""
+msgstr "向日葵种子"
 
 #. Key:	C73F9ECD467FCEFF988A019B987DD2F8
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.tomatoseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.tomatoseed.DisplayName
 msgctxt ",C73F9ECD467FCEFF988A019B987DD2F8"
 msgid "TomatoSeed"
-msgstr ""
+msgstr "番茄种子"
 
 #. Key:	26E6862A42FAB9C87566F0BB7343A1E7
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.watermelonseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.watermelonseed.DisplayName
 msgctxt ",26E6862A42FAB9C87566F0BB7343A1E7"
 msgid "WatermelonSeed"
-msgstr ""
+msgstr "西瓜种子"
 
 #. Key:	54C21AD64302E917A46929B3C4D37B73
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.wheatseed.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.wheatseed.DisplayName
 msgctxt ",54C21AD64302E917A46929B3C4D37B73"
 msgid "WheatSeed"
-msgstr ""
+msgstr "小麦种子"
 
 #. Key:	10B66E6E45813A4862AFE98772530357
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Wood.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.material.Wood.DisplayName
 msgctxt ",10B66E6E45813A4862AFE98772530357"
 msgid "Wood"
-msgstr ""
+msgstr "木材"
 
 #. Key:	2AC6B47F485616315631C9A90A9B18E2
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.axe.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.axe.DisplayName
 msgctxt ",2AC6B47F485616315631C9A90A9B18E2"
 msgid "Axe"
-msgstr ""
+msgstr "斧头"
 
 #. Key:	332FAFFC4FA16044C32520B8FABBCC3A
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.fishingrod.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.fishingrod.DisplayName
 msgctxt ",332FAFFC4FA16044C32520B8FABBCC3A"
 msgid "FishingRod"
-msgstr ""
+msgstr "鱼竿"
 
 #. Key:	14F7C6364C95EE72FA7D23817CDA5F0D
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.kettle.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.kettle.DisplayName
 msgctxt ",14F7C6364C95EE72FA7D23817CDA5F0D"
 msgid "Kettle"
-msgstr ""
+msgstr "水壶"
 
 #. Key:	F61E8AC24B1BB5678A3A61AAF1FDDF63
 #. SourceLocation:	/Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.stick.DisplayName
 #: /Game/_FdSystem/Item/TD_FdItemConfig.TD_FdItemConfig.fd.weapon.stick.DisplayName
 msgctxt ",F61E8AC24B1BB5678A3A61AAF1FDDF63"
 msgid "Stick"
-msgstr ""
+msgstr "木棍"
 
 #. Key:	E33B6194419F0456CE2B789DA13470D6
 #. SourceLocation:	/Game/_FdSystem/Item/Weapons/FishingRod/BP_FdFishingRod_Actor.BP_FdFishingRod_Actor_C:ExecuteUbergraph_BP_FdFishingRod_Actor [Script Bytecode]
 #: /Game/_FdSystem/Item/Weapons/FishingRod/BP_FdFishingRod_Actor.BP_FdFishingRod_Actor_C:ExecuteUbergraph_BP_FdFishingRod_Actor [Script Bytecode]
 msgctxt ",E33B6194419F0456CE2B789DA13470D6"
 msgid "掛かった"
-msgstr ""
+msgstr "上钩了！"
 
 #. Key:	AFE7D6894DFD549C8DA49EA1B5B53A69
 #. SourceLocation:	/Game/_FdSystem/NPC/BP_FdCharacter.BP_FdCharacter_C:AC_EasyInteractableActor_GEN_VARIABLE.InteractableSettingsList(0).InteractableSettingsList.InteractionText_25_6B50869640B0A0226BDBD29E718E748A
 #: /Game/_FdSystem/NPC/BP_FdCharacter.BP_FdCharacter_C:AC_EasyInteractableActor_GEN_VARIABLE.InteractableSettingsList(0).InteractableSettingsList.InteractionText_25_6B50869640B0A0226BDBD29E718E748A
 msgctxt ",AFE7D6894DFD549C8DA49EA1B5B53A69"
 msgid "Interaction"
-msgstr ""
+msgstr "互动"
 
 #. Key:	0D9220D34950650F6788528E00BC05B6
 #. SourceLocation:	/Game/_FdSystem/NPC/DT_FdNpcConfig.DT_FdNpcConfig.fd.default.DisplayName
 #: /Game/_FdSystem/NPC/DT_FdNpcConfig.DT_FdNpcConfig.fd.default.DisplayName
 msgctxt ",0D9220D34950650F6788528E00BC05B6"
 msgid "Nikki"
-msgstr ""
+msgstr "Nikki"
 
 #. Key:	4CA938A44B5BDA93BEAFDEBC19EFB0EE
 #. SourceLocation:	/Game/_FirstDemo/Shop/BP_FdShop.BP_FdShop_C:AC_EasyInteractableActor1_GEN_VARIABLE.InteractableSettingsList(0).InteractableSettingsList.InteractionText_25_6B50869640B0A0226BDBD29E718E748A
 #: /Game/_FirstDemo/Shop/BP_FdShop.BP_FdShop_C:AC_EasyInteractableActor1_GEN_VARIABLE.InteractableSettingsList(0).InteractableSettingsList.InteractionText_25_6B50869640B0A0226BDBD29E718E748A
 msgctxt ",4CA938A44B5BDA93BEAFDEBC19EFB0EE"
 msgid "Interaction"
-msgstr ""
+msgstr "互动"
 
 #. Key:	559B7C99439A8A771634C48348647F41
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock.Text
 msgctxt ",559B7C99439A8A771634C48348647F41"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. Key:	A04204BD47C5E9A0EB15069D156EDF9B
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_1.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_1.Text
 msgctxt ",A04204BD47C5E9A0EB15069D156EDF9B"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. Key:	BDA820134734434A4F3A24AAEE690EFE
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_177.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_177.Text
 msgctxt ",BDA820134734434A4F3A24AAEE690EFE"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	4C0FA04549D8D6B5F0D3A2A3756C39C8
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_2.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_2.Text
 msgctxt ",4C0FA04549D8D6B5F0D3A2A3756C39C8"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. Key:	6CE1B8034229F6B5C817C086E992AFAF
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_3.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_3.Text
 msgctxt ",6CE1B8034229F6B5C817C086E992AFAF"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. Key:	B8927450480CFA58C0421EB598F779E8
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_4.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_4.Text
 msgctxt ",B8927450480CFA58C0421EB598F779E8"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. Key:	F53586EC49C46AD7367BB9A8033261BB
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_5.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_5.Text
 msgctxt ",F53586EC49C46AD7367BB9A8033261BB"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. Key:	B85002D645B776D46FC60FAAE114B5A8
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_6.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_6.Text
 msgctxt ",B85002D645B776D46FC60FAAE114B5A8"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. Key:	48A78FD5455C6BD268D061A7F46F930C
 #. SourceLocation:	/Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_7.Text
 #: /Game/_FirstDemo/UI/Backpack/WBP_FdQuickSlotWidget.WBP_FdQuickSlotWidget_C:WidgetTree.TextBlock_7.Text
 msgctxt ",48A78FD5455C6BD268D061A7F46F930C"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. Key:	690B88174541BB9E6ECFF49D6DA4034D
 #. SourceLocation:	/Game/_FirstDemo/UI/Chat/WBP_FdChatEntry.WBP_FdChatEntry_C:WidgetTree.ContentText.Text
 #: /Game/_FirstDemo/UI/Chat/WBP_FdChatEntry.WBP_FdChatEntry_C:WidgetTree.ContentText.Text
 msgctxt ",690B88174541BB9E6ECFF49D6DA4034D"
 msgid "聊天内容 啦啦啦啦啦啦 聊天内容 啦啦啦啦啦啦聊天内容 啦啦啦啦啦啦聊天内容 啦啦啦啦啦啦"
-msgstr ""
+msgstr "聊天内容 啦啦啦啦啦啦 聊天内容 啦啦啦啦啦啦聊天内容 啦啦啦啦啦啦聊天内容 啦啦啦啦啦啦"
 
 #. Key:	98D5874B4A2C56A8BD4FAD906266306D
 #. SourceLocation:	/Game/_FirstDemo/UI/Chat/WBP_FdChatEntry.WBP_FdChatEntry_C:WidgetTree.SenderText.Text
 #: /Game/_FirstDemo/UI/Chat/WBP_FdChatEntry.WBP_FdChatEntry_C:WidgetTree.SenderText.Text
 msgctxt ",98D5874B4A2C56A8BD4FAD906266306D"
 msgid "名字A"
-msgstr ""
+msgstr "名字A"
 
 #. Key:	3172784342D37BCE41CF16819BB87A82
 #. SourceLocation:	/Game/_FirstDemo/UI/Chat/WBP_FdChatWidget.WBP_FdChatWidget_C:WidgetTree.InputTextBox.HintText
 #: /Game/_FirstDemo/UI/Chat/WBP_FdChatWidget.WBP_FdChatWidget_C:WidgetTree.InputTextBox.HintText
 msgctxt ",3172784342D37BCE41CF16819BB87A82"
 msgid "Type a message..."
-msgstr ""
+msgstr "输入消息..."
 
 #. Key:	298D3BDF40E6A230B6FB7D8A90083CB8
 #. SourceLocation:	/Game/_FirstDemo/UI/Chat/WBP_FdChatWidget.WBP_FdChatWidget_C:WidgetTree.TextBlock_114.Text
 #: /Game/_FirstDemo/UI/Chat/WBP_FdChatWidget.WBP_FdChatWidget_C:WidgetTree.TextBlock_114.Text
 msgctxt ",298D3BDF40E6A230B6FB7D8A90083CB8"
 msgid "Send"
-msgstr ""
+msgstr "发送"
 
 #. Key:	FEC0F7DF41CA085E244DF1880D3F9082
 #. SourceLocation:	/Game/_FirstDemo/UI/Craft/Recipe/WBP_CraftRecipe.WBP_CraftRecipe_C:WidgetTree.ItemCountText.Text
 #: /Game/_FirstDemo/UI/Craft/Recipe/WBP_CraftRecipe.WBP_CraftRecipe_C:WidgetTree.ItemCountText.Text
 msgctxt ",FEC0F7DF41CA085E244DF1880D3F9082"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	65DE2C5D4CF926B19A8A34BB18B49441
 #. SourceLocation:	/Game/_FirstDemo/UI/Craft/Recipe/WBP_CraftRecipeBook.WBP_CraftRecipeBook_C:WidgetTree.TextBlock_55.Text
 #: /Game/_FirstDemo/UI/Craft/Recipe/WBP_CraftRecipeBook.WBP_CraftRecipeBook_C:WidgetTree.TextBlock_55.Text
 msgctxt ",65DE2C5D4CF926B19A8A34BB18B49441"
 msgid "Recipe Book"
-msgstr ""
+msgstr "配方书"
 
 #. Key:	E56FF88E45D07F13B591F7BCF688731A
 #. SourceLocation:	/Game/_FirstDemo/UI/Craft/WBP_CraftWidget.WBP_CraftWidget_C:WidgetTree.TextBlock_134.Text
 #: /Game/_FirstDemo/UI/Craft/WBP_CraftWidget.WBP_CraftWidget_C:WidgetTree.TextBlock_134.Text
 msgctxt ",E56FF88E45D07F13B591F7BCF688731A"
 msgid "Craft"
-msgstr ""
+msgstr "制作"
 
 #. Key:	ECE98E7247184CD312C1C79DA078EA65
 #. SourceLocation:	/Game/_FirstDemo/UI/Craft/WBP_CraftWidget.WBP_CraftWidget_C:WidgetTree.TextBlock_307.Text
 #: /Game/_FirstDemo/UI/Craft/WBP_CraftWidget.WBP_CraftWidget_C:WidgetTree.TextBlock_307.Text
 msgctxt ",ECE98E7247184CD312C1C79DA078EA65"
 msgid "Cancle"
-msgstr ""
+msgstr "取消"
 
 #. Key:	74350B79447831D82458328B0F9734A6
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/Button/WBP_FdDebugMenuButton_AddItem.WBP_FdDebugMenuButton_AddItem_C:WidgetTree.TextBlock_33.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/Button/WBP_FdDebugMenuButton_AddItem.WBP_FdDebugMenuButton_AddItem_C:WidgetTree.TextBlock_33.Text
 msgctxt ",74350B79447831D82458328B0F9734A6"
 msgid "Creat"
-msgstr ""
+msgstr "创建"
 
 #. Key:	3DBFF1314DE0A3E430ED4C8C8839D2E9
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:ExecuteUbergraph_WBP_SpatialDebugMenu [Script Bytecode]
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:ExecuteUbergraph_WBP_SpatialDebugMenu [Script Bytecode]
 msgctxt ",3DBFF1314DE0A3E430ED4C8C8839D2E9"
 msgid "关闭"
-msgstr ""
+msgstr "关闭"
 
 #. Key:	74651DBE4DD0D81776EEB691C41D77E7
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:ExecuteUbergraph_WBP_SpatialDebugMenu [Script Bytecode]
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:ExecuteUbergraph_WBP_SpatialDebugMenu [Script Bytecode]
 msgctxt ",74651DBE4DD0D81776EEB691C41D77E7"
 msgid "开启"
-msgstr ""
+msgstr "开启"
 
 #. Key:	0F4E3E214198C12C8CE2C7A5CE1D310D
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",0F4E3E214198C12C8CE2C7A5CE1D310D"
 msgid "数量（堆叠）"
-msgstr ""
+msgstr "数量（堆叠）"
 
 #. Key:	96A0E4344904E44250FAEB86BFA0D73D
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_0.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",96A0E4344904E44250FAEB86BFA0D73D"
 msgid "物品列表"
-msgstr ""
+msgstr "物品列表"
 
 #. Key:	60548EF845CBD53E0FC1199E31A53868
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",60548EF845CBD53E0FC1199E31A53868"
 msgid "生成按钮"
-msgstr ""
+msgstr "生成按钮"
 
 #. Key:	993D3F404CEFAB8E34BA3B97635B99EF
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_144.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_144.Text
 msgctxt ",993D3F404CEFAB8E34BA3B97635B99EF"
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #. Key:	85F685AA40918CFD89A666BDCD75C1FD
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",85F685AA40918CFD89A666BDCD75C1FD"
 msgid "加速:"
-msgstr ""
+msgstr "加速:"
 
 #. Key:	D176BD3C4A0F9868C9E5168D6104EC7F
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_76.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_76.Text
 msgctxt ",D176BD3C4A0F9868C9E5168D6104EC7F"
 msgid "√"
-msgstr ""
+msgstr "√"
 
 #. Key:	8A556BDC46E243CEE415A79674680CF6
 #. SourceLocation:	/Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_IsSpeedUp.Text
 #: /Game/_FirstDemo/UI/DebugMenu/Compoenets/Widgets/WBP_SpatialDebugMenu.WBP_SpatialDebugMenu_C:WidgetTree.TextBlock_IsSpeedUp.Text
 msgctxt ",8A556BDC46E243CEE415A79674680CF6"
 msgid "未开启"
-msgstr ""
+msgstr "未开启"
 
 #. Key:	TextBlockDefaultValue
 #. SourceLocation:	/Game/_FirstDemo/UI/Dialogue/WBP_DialogueEntryWidget.WBP_DialogueEntryWidget_C:WidgetTree.ChoiceText.Text
 #: /Game/_FirstDemo/UI/Dialogue/WBP_DialogueEntryWidget.WBP_DialogueEntryWidget_C:WidgetTree.ChoiceText.Text
 msgctxt "UMG,TextBlockDefaultValue"
 msgid "Text Block"
-msgstr ""
+msgstr "文本块"
 
 #. Key:	F017202B413D13734EBA7CA2D41B25B6
 #. SourceLocation:	/Game/_FirstDemo/UI/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.DialogueTextBlock.Text
 #: /Game/_FirstDemo/UI/Dialogue/WBP_DialogueWidget.WBP_DialogueWidget_C:WidgetTree.DialogueTextBlock.Text
 msgctxt ",F017202B413D13734EBA7CA2D41B25B6"
 msgid "对话内容对话内容对话内容对话内容对话内容,对话内容对话内容对话内容对话内容对话内容,对话内容对话内容对话内容对话内容对话内容."
-msgstr ""
+msgstr "对话内容对话内容对话内容对话内容对话内容， 对话内容对话内容对话内容对话内容对话内容， 对话内容对话内容对话内容对话内容对话内容。"
 
 #. Key:	6141ED90476219369C3CD898FAA5088F
 #. SourceLocation:	/Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock.Text
 #: /Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock.Text
 msgctxt ",6141ED90476219369C3CD898FAA5088F"
 msgid "Fertilizer"
-msgstr ""
+msgstr "肥料"
 
 #. Key:	B7C9D13746BA97EFF0132EB5AA7E95ED
 #. SourceLocation:	/Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_1.Text
 #: /Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B7C9D13746BA97EFF0132EB5AA7E95ED"
 msgid "Water Percent"
-msgstr ""
+msgstr "水分百分比"
 
 #. Key:	716561564C3EFE2CEFAC11BB7D7EF04E
 #. SourceLocation:	/Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_243.Text
 #: /Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_243.Text
 msgctxt ",716561564C3EFE2CEFAC11BB7D7EF04E"
 msgid "Seed"
-msgstr ""
+msgstr "种子"
 
 #. Key:	1C4CECC44FBC0E80D664CE93D73A3E93
 #. SourceLocation:	/Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_316.Text
 #: /Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_316.Text
 msgctxt ",1C4CECC44FBC0E80D664CE93D73A3E93"
 msgid "Growth Percent"
-msgstr ""
+msgstr "生长百分比"
 
 #. Key:	C34EC902470B3CC4BB76DF8ADE61905B
 #. SourceLocation:	/Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_71.Text
 #: /Game/_FirstDemo/UI/Farming/WBP_FdFarmingWidget.WBP_FdFarmingWidget_C:WidgetTree.TextBlock_71.Text
 msgctxt ",C34EC902470B3CC4BB76DF8ADE61905B"
 msgid "Harvest"
-msgstr ""
+msgstr "收获"
 
 #. Key:	2F19D31E4B750A36F215858C1298179E
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.kRecipe.TextToDisplay
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.kRecipe.TextToDisplay
 msgctxt ",2F19D31E4B750A36F215858C1298179E"
 msgid "Recipe"
-msgstr ""
+msgstr "配方"
 
 #. Key:	071DA5D2473347B0B766D4838CAC9D5E
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.NotifyText.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.NotifyText.Text
 msgctxt ",071DA5D2473347B0B766D4838CAC9D5E"
 msgid "掛かった"
-msgstr ""
+msgstr "上钩了！"
 
 #. Key:	456D67F7469A65981D7275A57ABDC9C2
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.tabbackpack.TextToDisplay
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.tabbackpack.TextToDisplay
 msgctxt ",456D67F7469A65981D7275A57ABDC9C2"
 msgid "BackPack"
-msgstr ""
+msgstr "背包"
 
 #. Key:	5B2E609E4DAAE799A25259A3AD324EA9
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.TextBlock_94.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.TextBlock_94.Text
 msgctxt ",5B2E609E4DAAE799A25259A3AD324EA9"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Key:	AFBBBB1344C9468B4085D0A2196AEF5A
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.vcraft.TextToDisplay
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdGamingUI.WBP_FdGamingUI_C:WidgetTree.vcraft.TextToDisplay
 msgctxt ",AFBBBB1344C9468B4085D0A2196AEF5A"
 msgid "Craft"
-msgstr ""
+msgstr "制作"
 
 #. Key:	276B8C22421954865C8557801ED1AFCF
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock.Text
 msgctxt ",276B8C22421954865C8557801ED1AFCF"
 msgid "Main Quest"
-msgstr ""
+msgstr "主线任务"
 
 #. Key:	993955DA4CFCD78C1BDE969E9669B150
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_1.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_1.Text
 msgctxt ",993955DA4CFCD78C1BDE969E9669B150"
 msgid "Chat"
-msgstr ""
+msgstr "聊天"
 
 #. Key:	5730BBFC40E191D34C731FAE20F115B8
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_2.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_2.Text
 msgctxt ",5730BBFC40E191D34C731FAE20F115B8"
 msgid "Shop"
-msgstr ""
+msgstr "商店"
 
 #. Key:	F75C612141DE3BEAFCC2438879B79021
 #. SourceLocation:	/Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_71.Text
 #: /Game/_FirstDemo/UI/GamingUI/WBP_FdInteractiveChoice.WBP_FdInteractiveChoice_C:WidgetTree.TextBlock_71.Text
 msgctxt ",F75C612141DE3BEAFCC2438879B79021"
 msgid "Quest"
-msgstr ""
+msgstr "任务"
 
 #. Key:	8EA59E9D44AB8CB85E193880522889CF
 #. SourceLocation:	/Game/_FirstDemo/UI/Item/WBP_FdItemEntryWidget.WBP_FdItemEntryWidget_C:WidgetTree.ItemCountText.Text
 #: /Game/_FirstDemo/UI/Item/WBP_FdItemEntryWidget.WBP_FdItemEntryWidget_C:WidgetTree.ItemCountText.Text
 msgctxt ",8EA59E9D44AB8CB85E193880522889CF"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	0EED8EEF4F6623D258EAD8A9C82D5F85
 #. SourceLocation:	/Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:ExecuteUbergraph_WBP_FdShopEntryWidget [Script Bytecode]
 #: /Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:ExecuteUbergraph_WBP_FdShopEntryWidget [Script Bytecode]
 msgctxt ",0EED8EEF4F6623D258EAD8A9C82D5F85"
 msgid "购买物品失败"
-msgstr ""
+msgstr "购买物品失败"
 
 #. Key:	ABBF89E94D33108E8C55C0B05200541D
 #. SourceLocation:	/Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:ExecuteUbergraph_WBP_FdShopEntryWidget [Script Bytecode]
 #: /Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:ExecuteUbergraph_WBP_FdShopEntryWidget [Script Bytecode]
 msgctxt ",ABBF89E94D33108E8C55C0B05200541D"
 msgid "是否购买此物品"
-msgstr ""
+msgstr "是否购买此物品"
 
 #. Key:	39BC6CB84438E98277DFC2ABF642E986
 #. SourceLocation:	/Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:WidgetTree.ItemPriceText.Text
 #: /Game/_FirstDemo/UI/Shop/WBP_FdShopEntryWidget.WBP_FdShopEntryWidget_C:WidgetTree.ItemPriceText.Text
 msgctxt ",39BC6CB84438E98277DFC2ABF642E986"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. Key:	4F0C492C4FF7156F3A9AB994CEB84701
 #. SourceLocation:	/Game/_FirstDemo/UI/Shop/WBP_FdShopWidget.WBP_FdShopWidget_C:WidgetTree.TextBlock_108.Text
 #: /Game/_FirstDemo/UI/Shop/WBP_FdShopWidget.WBP_FdShopWidget_C:WidgetTree.TextBlock_108.Text
 msgctxt ",4F0C492C4FF7156F3A9AB994CEB84701"
 msgid "Sale"
-msgstr ""
+msgstr "出售"
 
 #. Key:	4DF56179491338C6A82D6D96430565A0
 #. SourceLocation:	/Game/_FirstDemo/UI/Shop/WBP_FdShopWidget.WBP_FdShopWidget_C:WidgetTree.TextBlock_61.Text
 #: /Game/_FirstDemo/UI/Shop/WBP_FdShopWidget.WBP_FdShopWidget_C:WidgetTree.TextBlock_61.Text
 msgctxt ",4DF56179491338C6A82D6D96430565A0"
 msgid "Buy"
-msgstr ""
+msgstr "购买"
 
 #. Key:	55B66CD744E35EFA862EB0871C12F6FF
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock.Text
 msgctxt ",55B66CD744E35EFA862EB0871C12F6FF"
 msgid "Pre-Required Item: "
-msgstr ""
+msgstr "Pre-Required Item: "
 
 #. Key:	8BCB1EB340ADF72AA20C9D99D5CADBEE
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_1.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_1.Text
 msgctxt ",8BCB1EB340ADF72AA20C9D99D5CADBEE"
 msgid "Pre Task: "
-msgstr ""
+msgstr "Pre Task: "
 
 #. Key:	EEE359E2418803488F605B9BEEC2F609
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_142.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_142.Text
 msgctxt ",EEE359E2418803488F605B9BEEC2F609"
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 #. Key:	151E1D3B4008DD97B265BDBE091AEDBF
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_2.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_2.Text
 msgctxt ",151E1D3B4008DD97B265BDBE091AEDBF"
 msgid "Required Item: "
-msgstr ""
+msgstr "Required Item: "
 
 #. Key:	455AF4A84ADBB185057A2BB4C5F6EB43
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_219.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_219.Text
 msgctxt ",455AF4A84ADBB185057A2BB4C5F6EB43"
 msgid "Reward: "
-msgstr ""
+msgstr "Reward: "
 
 #. Key:	C6CF7D3642E9D576F181C5B043E3DAA8
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_282.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_282.Text
 msgctxt ",C6CF7D3642E9D576F181C5B043E3DAA8"
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. Key:	BE494A8D47D67F61C625DE9625F860CE
 #. SourceLocation:	/Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_41.Text
 #: /Game/_FirstDemo/UI/Task/WBP_FdTaskStart.WBP_FdTaskStart_C:WidgetTree.TextBlock_41.Text
 msgctxt ",BE494A8D47D67F61C625DE9625F860CE"
 msgid "Task Type"
-msgstr ""
+msgstr "任务类型"
 
 #. Key:	AFA4341248E577FF0A90C6B19A28B66F
 #. SourceLocation:	/Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.MessageTextBlock.Text
 #: /Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.MessageTextBlock.Text
 msgctxt ",AFA4341248E577FF0A90C6B19A28B66F"
 msgid "这里是二次确认框的文本"
-msgstr ""
+msgstr "这里是二次确认框的文本"
 
 #. Key:	AF0CFFF64544F18FE88D409BC660674F
 #. SourceLocation:	/Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.TextBlock_192.Text
 #: /Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.TextBlock_192.Text
 msgctxt ",AF0CFFF64544F18FE88D409BC660674F"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. Key:	BA2D1FCE46F248DC37FA958BFEA23DF7
 #. SourceLocation:	/Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.TextBlock_246.Text
 #: /Game/_FirstDemo/UI/Tools/WBP_FdConfirmDialogWidget.WBP_FdConfirmDialogWidget_C:WidgetTree.TextBlock_246.Text
 msgctxt ",BA2D1FCE46F248DC37FA958BFEA23DF7"
 msgid "Confirmed"
-msgstr ""
+msgstr "已确认"
 
